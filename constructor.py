@@ -28,3 +28,11 @@ p.say_hi()
 p.welcome()
 d.say_hi()
 d.welcome()
+
+# Output
+'''
+Hello, my name is Arun and age 5
+Welcome this world !!.. Arun
+Hello, my name is Sachi and age 4
+Welcome this world !!.. Sachi
+'''
